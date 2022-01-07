@@ -6,5 +6,5 @@ Months=('January' 'February' 'March' 'April' 'May' 'June' 'July' 'August' 'Septe
 
 for i in "${Months[@]}"; do
     mkdir "$i$Year"
-    touch "$i$Year/$i.md"
+    touch "$i$Year/$i.md" "$i$Year/README.md"
 done
