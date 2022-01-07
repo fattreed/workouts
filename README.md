@@ -1,5 +1,9 @@
 # Workouts Journal
 
+## Goals
+
+Improve leg strength and aid in recovery from spinal cord injury. Tone up and lose maybe 5lbs.
+
 ## Why is this public?
 
 Basically to keep myself accountable and allow people to steal the idea. Feel free to fork.
