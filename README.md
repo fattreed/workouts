@@ -1,4 +1,4 @@
-# Workouts Log
+# Workouts Journal
 
 ## Why is this public?
 
