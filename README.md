@@ -2,7 +2,8 @@
 
 ## Goals
 
-Improve leg strength and aid in recovery from spinal cord injury. Tone up and lose maybe 5lbs.
+- Improve leg strength and aid in recovery from spinal cord injury. 
+- Tone up and lose maybe 5lbs.
 
 ## Why is this public?
 
