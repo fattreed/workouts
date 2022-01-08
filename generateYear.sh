@@ -8,5 +8,5 @@ mkdir "$i$Year"
 
 for i in "${Months[@]}"; do
     mkdir  "$Year/$i"
-    touch "$i$Year/README.md" "$Year/$i/README.md"
+    touch "$Year/$i/README.md"
 done
