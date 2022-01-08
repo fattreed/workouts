@@ -6,5 +6,5 @@ Starting Friday Jan 7th.
 
 # Workout Notes
 
-### January 7th 2022
+### (January 7th 2022)[jan-7-2022.md]
 Got dizzy after 2 sets. Should probably take it easy next workout
