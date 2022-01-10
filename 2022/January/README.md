@@ -6,20 +6,12 @@ Starting Friday Jan 7th.
 
 # Workout Notes
 
-## January 7th 2022
+### January 7th 2022
 Got dizzy after 2 sets. Should probably take it easy next workout
 
-### Intervals
+| Exercise | Sets | Time/Reps | Weight |
+| --- | --- | --- | --- |
+| Kettlebell Squats | 8 | 20 secs | 25lb |
+| Kettlebell Curls | 8 | 20 secs | 10lb |
+| Teeter FreeStep | 1 | 5 mins | N/A |
 
-20 seconds on 10 seconds off
-
-8 sets 4 rounds
-
-25 lb Kettlebell Squats - completed
-10 lb Kettlebell Curls - completed
-10 lb Kettlebell Deadlifts - skipped
-10 lb Kettlebell Tricep Extensions - skipped
-
-### Cardio
-
-5 mins Teeter FreeStep - completed
