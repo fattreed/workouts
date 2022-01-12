@@ -2,7 +2,7 @@
 
 Trying to work out 3 times a week this month starting the second week because I was sick the first week. 
 
-edit: going to try to do a light workout every day
+edit: going to try to do at least a light workout every day
 
 Starting Friday Jan 7th.
 
