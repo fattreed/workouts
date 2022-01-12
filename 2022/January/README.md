@@ -8,7 +8,7 @@ Starting Friday Jan 7th.
 
 # Workout Notes
 
-### January 7th
+### January 7th - Completed
 
 Got dizzy after 2 sets. Should probably take it easy next workout
 
