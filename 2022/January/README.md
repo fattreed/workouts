@@ -22,9 +22,9 @@ Got dizzy after 2 sets. Should probably take it easy next workout
 
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
-| FreeStep | 1 | 10 mins | N/A |
-| Kettlebell Squats | 4 | 8-12 reps | 25lb |
-| Kettlebell Deadlift | 4 | 8-12 reps | 25lb |
-| Kettlebell Curls | 4 | 6-12 reps | 10lb |
-| Kettlebell Tricep Extensions | 4 | 6-12 reps | 10lb |
+| FreeStep | 1 | 5 mins | N/A |
+| Kettlebell Squats | 4 | 8 reps | 25lb |
+| Kettlebell Deadlift | 4 | 8 reps | 25lb |
+| Kettlebell Curls | 4 | 8 reps | 10lb |
+| Kettlebell Tricep Extensions | 4 | 12 reps | 10lb |
 
