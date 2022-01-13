@@ -15,7 +15,7 @@ Got dizzy after 2 sets. Should probably take it easy next workout
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
 | Kettlebell Squats | 8 | 20 secs | 25lb |
-| Kettlebell Curls | 8 | 20 secs | 10lb |
+| Kettlebell Curls | 8 | 20 secs | 25lb |
 | Teeter FreeStep | 1 | 5 mins | N/A |
 
 ### January 12th - completed
