@@ -8,7 +8,7 @@ Starting Friday Jan 7th.
 
 # Workout Notes
 
-### January 7th - completed
+### 7th - completed
 
 Got dizzy after 2 sets. Should probably take it easy next workout
 
@@ -18,7 +18,7 @@ Got dizzy after 2 sets. Should probably take it easy next workout
 | Kettlebell Curls | 8 | 20 secs | 10lb |
 | Teeter FreeStep | 1 | 5 mins | N/A |
 
-### January 12th - completed
+### 12th - completed
 
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
@@ -28,7 +28,14 @@ Got dizzy after 2 sets. Should probably take it easy next workout
 | Kettlebell Curls | 4 | 8 reps | 10lb |
 | Kettlebell Tricep Extensions | 4 | 12 reps | 10lb |
 
-### January 13th
+
+### 13th - completed
+
+| Exercise | Sets | Time/Reps | Weight |
+| --- | --- | --- | --- |
+| Walk | 1 | 55mins | N/A |
+
+### 14th
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
 | FreeStep | 1 | 5 mins | N/A |
