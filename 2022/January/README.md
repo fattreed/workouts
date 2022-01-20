@@ -33,9 +33,14 @@ Got dizzy after 2 sets. Should probably take it easy next workout
 
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
-| Walk | 1 | 55mins | N/A |
+| Walk | 1 | 55 mins | N/A |
 
-### 14th
+### 18th - completed
+| Exercise | Sets | Time/Reps | Weight |
+| --- | --- | --- | --- |
+| Walk | 1 | 1hr 41 mins | N/A |
+
+### 21st
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
 | FreeStep | 1 | 5 mins | N/A |
