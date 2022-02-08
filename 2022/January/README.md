@@ -34,14 +34,3 @@ Got dizzy after 2 sets. Should probably take it easy next workout
 | Exercise | Sets | Time/Reps | Weight |
 | --- | --- | --- | --- |
 | Walk | 1 | 55mins | N/A |
-
-### 14th
-| Exercise | Sets | Time/Reps | Weight |
-| --- | --- | --- | --- |
-| FreeStep | 1 | 5 mins | N/A |
-| Kettlebell Squats | 4 | 8 reps | 25lb |
-| Kettlebell Deadlift | 4 | 8 reps | 25lb |
-| Kettlebell Rows | 4 | 8 reps per arm | 25lb |
-| Dumbell Incline Bench Press | 4 | 8 reps | 14kg |
-
-
